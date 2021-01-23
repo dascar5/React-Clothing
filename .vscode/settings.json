@@ -1,3 +1,9 @@
 {
     "git.ignoreLimitWarning": true
 }
+
+{
+    "eslint.workingDirectories": [
+      "./{PATH_TO_CLIENT}"
+    ]
+}
