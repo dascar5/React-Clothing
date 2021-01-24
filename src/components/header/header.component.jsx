@@ -1,9 +1,14 @@
-/* eslint-disable react/self-closing-comp */
-import React from 'react';
-import { Link } from 'react-router-dom';
+/**
+ * /* eslint-disable react/self-closing-comp
+ *
+ * @format
+ */
+
+import React from 'react'
+import {Link} from 'react-router-dom'
 // eslint-disable-next-line import/no-unresolved
-import { ReactComponent as Logo } from '../../assets/crown.svg';
-import './header.styles.scss';
+import {ReactComponent as Logo} from '../../assets/crown.svg'
+import './header.styles.scss'
 
 const Header = () => (
   <div className="header">
@@ -19,6 +24,6 @@ const Header = () => (
       </Link>
     </div>
   </div>
-);
+)
 
-export default Header;
+export default Header
