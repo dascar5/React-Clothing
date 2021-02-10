@@ -1,0 +1,41 @@
+"filename", "language", "JSON", "Markdown", "JavaScript", "CSS", "XML", "Log", "SCSS", "JavaScript React", "HTML", "comment", "blank", "total"
+"c:\Users\Bogdan\react-clothing\.prettierrc", "JSON", 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\Bogdan\react-clothing\README.md", "Markdown", 0, 38, 0, 0, 0, 0, 0, 0, 0, 0, 33, 71
+"c:\Users\Bogdan\react-clothing\debug.log", "Log", 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 1, 4
+"c:\Users\Bogdan\react-clothing\package-lock.json", "JSON", 18087, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 18088
+"c:\Users\Bogdan\react-clothing\package.json", "JSON", 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 53
+"c:\Users\Bogdan\react-clothing\public\index.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 0, 22, 23, 2, 47
+"c:\Users\Bogdan\react-clothing\public\manifest.json", "JSON", 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 26
+"c:\Users\Bogdan\react-clothing\src\App.css", "CSS", 0, 0, 0, 11, 0, 0, 0, 0, 0, 1, 4, 16
+"c:\Users\Bogdan\react-clothing\src\App.js", "JavaScript", 0, 0, 49, 0, 0, 0, 0, 0, 0, 1, 11, 61
+"c:\Users\Bogdan\react-clothing\src\App.test.js", "JavaScript", 0, 0, 7, 0, 0, 0, 0, 0, 0, 1, 2, 10
+"c:\Users\Bogdan\react-clothing\src\assets\crown.svg", "XML", 0, 0, 0, 0, 16, 0, 0, 0, 0, 1, 0, 17
+"c:\Users\Bogdan\react-clothing\src\components\collection-item\collection-item.component.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 17, 0, 3, 6, 26
+"c:\Users\Bogdan\react-clothing\src\components\collection-item\collection-item.styles.scss", "SCSS", 0, 0, 0, 0, 0, 0, 28, 0, 0, 0, 5, 33
+"c:\Users\Bogdan\react-clothing\src\components\collection-preview\collection-preview.component.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 16, 0, 2, 3, 21
+"c:\Users\Bogdan\react-clothing\src\components\collection-preview\collection-preview.styles.scss", "SCSS", 0, 0, 0, 0, 0, 0, 13, 0, 0, 0, 3, 16
+"c:\Users\Bogdan\react-clothing\src\components\custom-button\custom-button.component.js", "JavaScript", 0, 0, 8, 0, 0, 0, 0, 0, 0, 1, 4, 13
+"c:\Users\Bogdan\react-clothing\src\components\custom-button\custom-button.styles.scss", "SCSS", 0, 0, 0, 0, 0, 0, 29, 0, 0, 1, 5, 35
+"c:\Users\Bogdan\react-clothing\src\components\directory\directory.component.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 54, 0, 4, 6, 64
+"c:\Users\Bogdan\react-clothing\src\components\directory\directory.styles.scss", "SCSS", 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 1, 7
+"c:\Users\Bogdan\react-clothing\src\components\form-input\form-input.component.js", "JavaScript", 0, 0, 13, 0, 0, 0, 0, 0, 0, 1, 5, 19
+"c:\Users\Bogdan\react-clothing\src\components\form-input\form-input.styles.scss", "SCSS", 0, 0, 0, 0, 0, 0, 46, 0, 0, 0, 9, 55
+"c:\Users\Bogdan\react-clothing\src\components\header\header.component.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 30, 0, 1, 4, 35
+"c:\Users\Bogdan\react-clothing\src\components\header\header.styles.scss", "SCSS", 0, 0, 0, 0, 0, 0, 23, 0, 0, 1, 5, 29
+"c:\Users\Bogdan\react-clothing\src\components\menu-item\menu-item.component.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 18, 0, 5, 5, 28
+"c:\Users\Bogdan\react-clothing\src\components\menu-item\menu-item.styles.scss", "SCSS", 0, 0, 0, 0, 0, 0, 58, 0, 0, 0, 11, 69
+"c:\Users\Bogdan\react-clothing\src\components\sign-in\sign-in.component.js", "JavaScript", 0, 0, 60, 0, 0, 0, 0, 0, 0, 2, 15, 77
+"c:\Users\Bogdan\react-clothing\src\components\sign-in\sign-in.styles.scss", "SCSS", 0, 0, 0, 0, 0, 0, 12, 0, 0, 1, 4, 17
+"c:\Users\Bogdan\react-clothing\src\components\sign-up\sign-up.component.js", "JavaScript", 0, 0, 85, 0, 0, 0, 0, 0, 0, 1, 14, 100
+"c:\Users\Bogdan\react-clothing\src\components\sign-up\sign-up.styles.scss", "SCSS", 0, 0, 0, 0, 0, 0, 8, 0, 0, 1, 3, 12
+"c:\Users\Bogdan\react-clothing\src\firebase\firebase.utils.js", "JavaScript", 0, 0, 39, 0, 0, 0, 0, 0, 0, 1, 11, 51
+"c:\Users\Bogdan\react-clothing\src\index.css", "CSS", 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 2, 15
+"c:\Users\Bogdan\react-clothing\src\index.js", "JavaScript", 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"c:\Users\Bogdan\react-clothing\src\pages\homepage\homepage.component.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 2, 11
+"c:\Users\Bogdan\react-clothing\src\pages\homepage\homepage.styles.scss", "SCSS", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 2, 7
+"c:\Users\Bogdan\react-clothing\src\pages\shop\shop.component.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 22, 0, 2, 8, 32
+"c:\Users\Bogdan\react-clothing\src\pages\shop\shop.data.js", "JavaScript", 0, 0, 248, 0, 0, 0, 0, 0, 0, 0, 2, 250
+"c:\Users\Bogdan\react-clothing\src\pages\signinup\signinup.component.js", "JavaScript", 0, 0, 11, 0, 0, 0, 0, 0, 0, 1, 5, 17
+"c:\Users\Bogdan\react-clothing\src\pages\signinup\signinup.styles.scss", "SCSS", 0, 0, 0, 0, 0, 0, 6, 0, 0, 1, 2, 9
+"c:\Users\Bogdan\react-clothing\src\setupTests.js", "JavaScript", 0, 0, 1, 0, 0, 0, 0, 0, 0, 4, 1, 6
+"Total", "-", 18176, 38, 532, 24, 16, 3, 234, 166, 22, 60, 202, 19473
